@@ -4,3 +4,6 @@
 [submodule "scripts/apothecary"]
 	path = scripts/apothecary
 	url = https://github.com/openframeworks/apothecary
+[submodule "apps/devApps/oF_sandbox"]
+	path = apps/devApps/oF_sandbox
+	url = https://github.com/mitsuhito/oF_sandbox
